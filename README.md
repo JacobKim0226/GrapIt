@@ -1,5 +1,7 @@
 # GrapIt
 
+# 팀 github 주소 : https://github.com/hoon25/GrapIt.git
+
 >  그래프 및 도형 시각화를 제공하는 화상과외 서비스
 
 ## 🚀 프로젝트 소개
